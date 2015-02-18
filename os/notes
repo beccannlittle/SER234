@@ -1,0 +1,3 @@
+code space plus data space = virtual address space
+dont have to start new processes until scheduler is ready
+if there isn't enough memory for process, ignore for now, then come back
